@@ -1,5 +1,6 @@
 # Taller2Web
 
 Integrantes:
-*Valentina Galvis Bergsneider
-*Daniel David Delgado Cervantes
+
+-   Valentina Galvis Bergsneider
+-   Daniel David Delgado Cervantes
